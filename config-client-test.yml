@@ -1,2 +1,3 @@
 wordConfig:
+  preamble: "Lucky word is"
   lucky-word: "Irish"
